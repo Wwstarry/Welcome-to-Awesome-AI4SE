@@ -55,8 +55,15 @@
 - [2024-11-12] [Qwen2.5-Coder Technical Report](https://arxiv.org/pdf/2409.12186)  
   *Introduce the Qwen2.5-Coder series.*
 
+
+- [2024-11-11] [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/pdf/2405.15793)  
+  *A system that facilitates LM agents to autonomously use computers to solve software engineering tasks.*
+
+
 - [2024-09-21] [Reasoning Runtime Behavior of a Program with LLM: How Far Are We?](https://arxiv.org/pdf/2403.16437)  
   *Evaluate the code reasoning capability of code LLMs.*
+
+
 
 - [2024-08-22] [Search-Based LLMs for Code Optimization](https://arxiv.org/pdf/2408.12159)  
   *Integrate LLMs with evolutionary search.*
@@ -72,6 +79,12 @@
 
 - [2024-01-30] [Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers](https://arxiv.org/pdf/2401.06461)  
   *Study the specific patterns that characterize machine- and human-authored code.*
+
+## 🗓️ 2023
+
+- [2023-10-20] [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/pdf/2303.12570)  
+  *A straightforward and effective framework for the repositorylevel code completion task.*
+
 
 
 ## 🚀 Useful GitHub Repos & Models
