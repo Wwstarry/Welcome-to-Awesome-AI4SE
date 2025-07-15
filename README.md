@@ -11,7 +11,7 @@
 ## 🗓️ 2025
 
 - [2025-06-26] [ConTested: Consistency-Aided Tested Code Generation with LLM](https://conf.researchr.org/details/issta-2025/issta-2025-papers/27/ConTested-Consistency-Aided-Tested-Code-Generation-with-LLM)  
-  *Incorporates user feedback to effectively guide consistency.*
+  *Incorporate user feedback to effectively guide consistency.*
 
 - [2025-06-19] [Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning](https://dl.acm.org/doi/10.1145/3729341)  
   *A comprehensive study on exploring the effectiveness of the PEFT methods.*
@@ -27,7 +27,7 @@
   *Explore LLM-as-a-judge methods for evaluating SE tasks.*
 
 - [2025-03-22] [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112)  
-  *Integrates backtracking mechanism and program analysis tools.*
+  *Integrate backtracking mechanism and program analysis tools.*
 
 - [2025-03-18] [HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation](https://arxiv.org/pdf/2406.06918)  
   *Construct an evolution-aware repository-level code generation dataset.*
@@ -63,6 +63,9 @@
 
 - [2024-07-28] [RLCoder: Reinforcement Learning for Repository-Level Code Completion](https://arxiv.org/pdf/2407.19487)  
   *A novel reinforcement learning framework for repository-level code completion.*
+
+- [2024-04-10] [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/pdf/2308.10620)  
+  * A systematic literature review (SLR) on LLM4SE.* 
 
 - [2024-02-23] [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models](https://arxiv.org/pdf/2507.05281)  
   *A new benchmark to evaluate a model’s effectiveness in pragmatic code generation scenarios.*
