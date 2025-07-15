@@ -65,7 +65,7 @@
   *A novel reinforcement learning framework for repository-level code completion.*
 
 - [2024-04-10] [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/pdf/2308.10620)  
-  * A systematic literature review (SLR) on LLM4SE.* 
+  *A systematic literature review (SLR) on LLM4SE.* 
 
 - [2024-02-23] [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models](https://arxiv.org/pdf/2507.05281)  
   *A new benchmark to evaluate a model’s effectiveness in pragmatic code generation scenarios.*
