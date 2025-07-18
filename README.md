@@ -100,6 +100,9 @@ Here are some great open-source resources and models related to **AI4SE** that a
 -  **[SWE-bench](https://github.com/princeton-nlp/SWE-bench)**  
   A benchmark for evaluating LLMs on real-world GitHub issue resolution.  
 
+-  **[Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM?tab=readme-ov-file#25-reinforcement-learning-on-code)**  
+  A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.  
+  🌟 I’ll go through all the papers in this list within a month and regularly update the repo with the most valuable ones.
 
 
 
