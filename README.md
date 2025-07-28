@@ -91,6 +91,9 @@
 - [2023-10-20] [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/pdf/2303.12570)  
   *A straightforward and effective framework for the repositorylevel code completion task.*
 
+- [2023-10-11] [The Impact of Code Data on Language Models](https://arxiv.org/pdf/2310.06830v2)  
+  *A systematic investigation of how varying code data proportions in pretraining affect language models’ performance across structural, arithmetic, and natural language tasks.*
+
 
 
 ## 🚀 Useful GitHub Repos & Models
