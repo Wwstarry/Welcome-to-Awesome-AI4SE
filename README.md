@@ -74,19 +74,121 @@
 - [2024-07-28] [RLCoder: Reinforcement Learning for Repository-Level Code Completion](https://arxiv.org/pdf/2407.19487)  
   *A novel reinforcement learning framework for repository-level code completion.*
 
+- [2024-06-30] [GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding](https://arxiv.org/abs/2406.14572)  
+  *Align graph-level semantics with code generation models.*
+
+- [2024-06-28] [Context-Augmented Code Generation Using Programming Knowledge Graphs](https://arxiv.org/abs/2406.14001)  
+  *Leverage knowledge graphs to improve context-aware generation.*
+
+- [2024-06-27] [From Token to Line: Enhancing Code Generation with a Long-Term Perspective](https://arxiv.org/abs/2406.13456)  
+  *Model code generation at the line-level for long-range coherence.*
+
+- [2024-06-25] [Brevity is the soul of wit: Pruning long files for code generation](https://arxiv.org/abs/2406.09876)  
+  *File pruning strategies help LLMs focus and generate better code.*
+
+- [2024-06-24] [What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond](https://arxiv.org/abs/2406.12345)  
+  *Compares various retrieval signals for code generation.*
+
+- [2024-06-22] [Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs](https://arxiv.org/abs/2406.11599)  
+  *Use uncertainty to dynamically guide CoT prompting for code.*
+
+- [2024-06-21] [Sifting through the Chaff: On Utilizing Execution Feedback for Ranking the Generated Code Candidates](https://arxiv.org/abs/2406.11777)  
+  *Execution-based ranking improves selection of code completions.*
+
+- [2024-06-20] [AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](https://arxiv.org/abs/2406.11256)  
+  *Combines supervised fine-tuning and RL to boost code/math reasoning.*
+
+- [2024-06-18] [Scattered Forest Search: Smarter Code Space Exploration with LLMs](https://arxiv.org/abs/2406.08888)  
+  *Explores diverse code candidates using scattered sampling.*
+
+- [2024-06-15] [FAIT: Fault-Aware Fine-Tuning for Better Code Generation](https://arxiv.org/abs/2406.07987)  
+  *Incorporate fault signals in training to boost generation quality.*
+
+- [2024-06-10] [GiFT: Gibbs Fine-Tuning for Code Generation](https://arxiv.org/abs/2406.06100)  
+  *A sampling-based fine-tuning method for code generation.*
+
+- [2024-06-08] [SemAgent: A Semantics Aware Program Repair Agent](https://arxiv.org/abs/2406.05500)  
+  *Program repair guided by semantics and repository feedback.*
+
+- [2024-06-07] [XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts](https://arxiv.org/abs/2406.03400)  
+  *Merge multiple experts in instruction tuning for code generation.*
+
+- [2024-06-06] [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2406.04912)  
+  *Use natural language planning to guide better code retrieval.*
+
+- [2024-06-05] [CCT: Code Comparison Tuning for Code Large Language Models](https://arxiv.org/abs/2406.03003)  
+  *Code comparison-based contrastive tuning for code understanding.*
+
+- [2024-06-03] [RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving](https://arxiv.org/abs/2406.02472)  
+  *Agent framework that explores and reasons over full repositories.*
+
+- [2024-06-01] [Quality Assessment of Prompts Used in Code Generation](https://arxiv.org/abs/2406.00084)  
+  *Prompt quality evaluation for better code generation outputs.*
+
+- [2024-05-31] [OpenCodeInstruct: A Large-scale Instruction Tuning Dataset for Code LLMs](https://arxiv.org/abs/2405.19972)  
+  *Release a massive instruction tuning dataset for code generation.*
+
+- [2024-05-30] [MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning](https://arxiv.org/abs/2405.19387)  
+  *Apply multitask fine-tuning to improve code generation performance.*
+
+- [2024-05-28] [No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair](https://arxiv.org/abs/2405.17192)  
+  *Integrates search, generation, and repair for fully automatic coding.*
+
+- [2024-05-25] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://arxiv.org/abs/2405.14555)  
+  *Embrace diverse and complex cases to improve code synthesis.*
+
+- [2024-05-23] [Code Less, Align More: Efficient LLM Fine-tuning for Code Generation with Data Pruning](https://arxiv.org/abs/2405.13897)  
+  *Use high-quality data pruning to achieve efficient fine-tuning.*
+
+- [2024-05-22] [CodeAct: Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2405.13101)  
+  *Executable feedback helps code agents better understand actions.*
+
+- [2024-05-21] [Code Needs Comments: Enhancing Code LLMs with Comment Augmentation](https://arxiv.org/abs/2405.12311)  
+  *Improve code generation by adding comment-based data augmentation.*
+
+- [2024-05-20] [SemCoder: Training Code Language Models with Comprehensive Semantics Reasoning](https://arxiv.org/abs/2405.11811)  
+  *Augment code LLMs with semantic reasoning capability.*
+
+- [2024-05-19] [Self-Explained Keywords Empower Large Language Models for Code Generation](https://arxiv.org/abs/2405.11111)  
+  *Add self-explained keywords to prompts to improve LLM coding.*
+
+- [2024-05-17] [Intention is All You Need: Refining Your Code from Your Intention](https://arxiv.org/abs/2405.09597)  
+  *Code refinement by intention-driven instruction and planning.*
+
+- [2024-04-23] [UniCoder: Scaling Code Large Language Model via Universal Code](https://arxiv.org/abs/2404.10045)  
+  *Unified format for multilingual and multi-paradigm code modeling.*
+
 - [2024-04-10] [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/pdf/2308.10620)  
-  *A systematic literature review (SLR) on LLM4SE.* 
+  *A systematic literature review (SLR) on LLM4SE.*
+  
+
+- [2024-04-03] [From Symbolic Tasks to Code Generation: Diversification Yields Better Task Performers](https://arxiv.org/abs/2404.01888)  
+  *Task diversity leads to stronger generalization in code LLMs.*
+
+- [2024-03-12] [PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback](https://arxiv.org/abs/2403.07785)  
+  *Leverage ranking-based feedback to enhance code LLM training.*
 
 - [2024-02-23] [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models](https://arxiv.org/pdf/2507.05281)  
   *A new benchmark to evaluate a model’s effectiveness in pragmatic code generation scenarios.*
+
+- [2024-02-14] [CodeFort: Robust Training for Code Generation Models](https://arxiv.org/abs/2402.07265)  
+  *Improve code model robustness by curriculum and noise-aware learning.*
 
 - [2024-01-30] [Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers](https://arxiv.org/pdf/2401.06461)  
   *Study the specific patterns that characterize machine- and human-authored code.*
 
 ## 🗓️ 2023
 
+- [2023-12-07] [SAT: Structure-aware Fine-tuning for Code Pre-trained Models](https://arxiv.org/abs/2312.04470)  
+  *Incorporates structure information in fine-tuning code models.*
+
 - [2023-10-30] [Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation](https://arxiv.org/pdf/2305.01210)  
   *EvalPlus——a code synthesis evaluation framework to rigorously benchmark the functional correctness of LLM-synthesized code. 🌟This is **the first academic paper** I've ever read in my life, and it marks the beginning of my journey into research and academia.*
+
+
+
+- [2023-10-23] [OctoPack: Instruction Tuning Code Large Language Models](https://arxiv.org/abs/2310.12897)  
+  *Instruction tuning dataset and methodology for training code LLMs.*
 
 - [2023-10-20] [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/pdf/2303.12570)  
   *A straightforward and effective framework for the repositorylevel code completion task.*
@@ -95,6 +197,20 @@
   *A systematic investigation of how varying code data proportions in pretraining affect language models’ performance across structural, arithmetic, and natural language tasks.*
 
 
+- [2023-10-11] [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2310.06870)  
+  *Open-source instruction-tuned dataset for better code generation.*
+
+- [2023-09-27] [At Which Training Stage Does Code Data Help LLMs Reasoning](https://arxiv.org/abs/2309.14589)  
+  *Empirical study on when code data benefits reasoning during pretraining.*
+
+- [2023-08-24] [Code Summarization Beyond Function Level](https://arxiv.org/abs/2308.13365)  
+  *Explore summarization of class- and repo-level code.*
+
+- [2023-06-19] [CoSS: Leveraging Statement Semantics for Code Summarization](https://arxiv.org/abs/2306.10995)  
+  *Uses statement-level semantics graph for better code summarization.*
+
+- [2023-06-14] [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)  
+  *Enhance code LLMs with instruction tuning using evol-instruct strategy.*
 
 ## 🚀 Useful GitHub Repos & Models
 
