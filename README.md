@@ -10,11 +10,23 @@
 
 ## 🗓️ 2025
 
+- [2025-09-30] [Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation (FLAME)](https://arXiv.org/abs/2509.25676)  
+  *LLM-guided annotation + ensemble voting to give explainable, fine-grained fault localization for student programming tasks.*  
+
+
+- [2025-06-30] [Hierarchical Knowledge Injection for Improving LLM-based Program Repair](https://arXiv.org/abs/2506.24015) 
+
+  *A layered knowledge injection framework that progressively injects bug-level, repository-level, project-level context into LLM prompts to improve repair performance.*  
+
+
 - [2025-06-26] [ConTested: Consistency-Aided Tested Code Generation with LLM](https://conf.researchr.org/details/issta-2025/issta-2025-papers/27/ConTested-Consistency-Aided-Tested-Code-Generation-with-LLM)  
   *Incorporate user feedback to effectively guide consistency.*
 
 - [2025-06-19] [Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning](https://dl.acm.org/doi/10.1145/3729341)  
   *A comprehensive study on exploring the effectiveness of the PEFT methods.*
+
+- [2025-05-26] [Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases](https://arXiv.org/abs/2505.19502)  
+  *“Data distillation + multi-model voting” framework to evaluate functional consistency when no reference or test case is available, with explanations.*  
 
 - [2025-05-02] [Iterative Generation of Adversarial Example for Deep Code Models](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/77/Iterative-Generation-of-Adversarial-Example-for-Deep-Code-Models)  
   *A novel black-box adversarial example generation method that iteratively utilizes feedback from failed attacks to refine the generation process.*
@@ -26,8 +38,17 @@
 - [2025-04-21] [Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering](https://arxiv.org/pdf/2502.06193)  
   *Explore LLM-as-a-judge methods for evaluating SE tasks.*
 
+- [2025-04-18] [CodeVisionary: An Agent-based Evaluation Framework for Complex Code Generation](https://arxiv.org/abs/2504.13472) 
+  
+  *Proposes a multi-agent, two-stage evaluation that decomposes complex requirements + integrates context, then reviewers give fine-grained, interpretable scoring.*  
+ 
+
 - [2025-03-22] [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112)  
   *Integrate backtracking mechanism and program analysis tools.*
+
+- [2025-03-19][Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning](https://arXiv.org/abs/2503.14838)  
+  *Mines, restructures, and enriches community discussion into structured reasoning chains (guided by SDLC), to train LLMs for better multi-step coding reasoning.*  
+
 
 - [2025-03-18] [HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation](https://arxiv.org/pdf/2406.06918)  
   *Construct an evolution-aware repository-level code generation dataset.*
