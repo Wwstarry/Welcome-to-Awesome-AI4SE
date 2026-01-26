@@ -42,6 +42,10 @@
 - [2025-05-02] [Iterative Generation of Adversarial Example for Deep Code Models](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/77/Iterative-Generation-of-Adversarial-Example-for-Deep-Code-Models)  
   *A novel black-box adversarial example generation method that iteratively utilizes feedback from failed attacks to refine the generation process.*
 
+- [2025-05-01] [Position: Future Research and Challenges Remain Towards AI for Software Engineering](https://openreview.net/forum?id=RuLsq4LSZK)  
+  *proposes a taxonomy of AI4SE tasks/measures, identifies key bottlenecks, and outlines promising future research directions.* 
+
+
 - [2025-04-30] [Planning a Large Language Model for Static Detection of Runtime Errors in Code Snippets](https://ieeexplore.ieee.org/document/11029953)  
   *Instruct an LLM to autonomously formulate a plan to navigate through a control flow graph (CFG) for predictive execution of (in)complete code snippets.*
 
