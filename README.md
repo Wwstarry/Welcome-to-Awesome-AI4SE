@@ -6,6 +6,10 @@
 
 *I hope to maintain a curated AI4SE Paper Repository collecting recent high-quality research in software engineering. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
 
+## 🗓️ 2026
+
+- [2026-01-18] [Environment-Aware Code Generation: How far are We?](https://arxiv.org/abs/2601.12262)  
+  *A first systematic study of environment-aware code generation (EACG) with an execution-verified, deprecation-aware benchmark (VersiBCB) and adaptation strategies across data/parameters/cache.*
 
 
 ## 🗓️ 2025
@@ -17,8 +21,15 @@
 - [2025-09-30] [Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation (FLAME)](https://arXiv.org/abs/2509.25676)  
   *LLM-guided annotation + ensemble voting to give explainable, fine-grained fault localization for student programming tasks.*  
 
+- [2025-09-19] [RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198)  
+  *Proposes Repository Planning Graph (RPG) as a structured blueprint to unify proposal- and implementation-level planning for scalable repository generation (ZeroRepo), and introduces the RepoCraft benchmark.*
+
+
 - [2025-08-26] [GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging](https://arxiv.org/abs/2508.18993)  
   *Repository-aware benchmark with 54 real-world multimodal tasks to test agents’ ability to leverage existing GitHub repositories and measure economic value.*  
+
+- [2025-07-22] [CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing](https://arxiv.org/abs/2507.16407)  
+  *Improves code LLM robustness to prompt perturbations via layer-aware lightweight model editing by locating robustness-sensitive layers and applying targeted parameter updates.*
 
 
 - [2025-06-30] [Hierarchical Knowledge Injection for Improving LLM-based Program Repair](https://arXiv.org/abs/2506.24015) 
@@ -58,6 +69,9 @@
   *Proposes a multi-agent, two-stage evaluation that decomposes complex requirements + integrates context, then reviewers give fine-grained, interpretable scoring.*  
  
 
+- [2025-03-26] [What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond](https://arxiv.org/abs/2503.20589)  
+  *Empirically analyzes what retrieval signals help RAG for repo-level code generation (context/APIs vs. similar code), and proposes an API-centric retrieval strategy (AllianceCoder).*
+
 - [2025-03-22] [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112)  
   *Integrate backtracking mechanism and program analysis tools.*
 
@@ -93,6 +107,11 @@
 
 ## 🗓️ 2024
 
+- [2024-12-24] [Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark](https://arxiv.org/abs/2412.18573)  
+  *A multi-domain code generation benchmark spanning 12 application domains and 15 programming languages, showing general coding performance may not transfer to domain-specific settings.*
+
+
+
 - [2024-12-10] [EffiBench: Benchmarking the Efficiency of Automatically Generated Code](https://arxiv.org/abs/2402.02037)  
   *The first benchmark focusing on runtime and memory efficiency of LLM-generated code across 1,000 efficiency-critical programming tasks.*  
 
@@ -107,6 +126,10 @@
 
 - [2024-10-29] [AGENTLESS: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/pdf/2407.01489)  
   *Do we really have to employ complex autonomous software agents?*
+
+
+- [2024-10-02] [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](https://arxiv.org/abs/2410.01215)  
+  *A hierarchical multi-granularity debugging framework (MGDebugger) that debugs code bottom-up across different error granularities to improve last-mile correctness.*
 
 
 - [2024-09-21] [Reasoning Runtime Behavior of a Program with LLM: How Far Are We?](https://arxiv.org/pdf/2403.16437)  
