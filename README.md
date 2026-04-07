@@ -1,12 +1,18 @@
 # 🌟 Welcome-to-Awesome-AI4SE
 <a name="top"></a>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-June%2030,%202025-blue)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-April%207,%202026-blue)
 
 
 *I hope to maintain a curated AI4SE Paper Repository collecting recent high-quality research in software engineering. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
 
 ## 🗓️ 2026
+
+- [2026-03-27] [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648)  
+  *A hierarchical benchmark for visual website development, covering static UI-to-code, interactive multi-page frontend reproduction, and long-horizon full-stack development with agent-based verification.*  
+
+- [2026-01-23] [SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746)  
+  *A task-aware context pruning framework for coding agents that learns to selectively keep relevant code lines, cutting token cost while preserving or improving performance.*  
 
 - [2026-01-18] [Environment-Aware Code Generation: How far are We?](https://arxiv.org/abs/2601.12262)  
   *A first systematic study of environment-aware code generation (EACG) with an execution-verified, deprecation-aware benchmark (VersiBCB) and adaptation strategies across data/parameters/cache.*
@@ -14,8 +20,15 @@
 
 ## 🗓️ 2025
 
+- [2025-12-14] [NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents](https://arxiv.org/abs/2512.12730)  
+  *A benchmark for evaluating whether coding agents can generate complete repositories from a single requirements document over long interaction horizons.*  
+
 - [2025-11-20] [Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646)  
   *The first live, runtime self-evolving SWE agent that expands and revises its own tools and workflows while solving real-world issues.*  
+
+
+- [2025-10-01] [LongCodeZip: Compress Long Context for Code Language Models](https://arxiv.org/abs/2510.00446)  
+  *A plug-and-play hierarchical code compression framework that preserves relevant functions and blocks, enabling efficient long-context code generation, summarization, and QA.*  
 
 
 - [2025-09-30] [Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation (FLAME)](https://arXiv.org/abs/2509.25676)  
@@ -131,9 +144,11 @@
 - [2024-10-02] [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](https://arxiv.org/abs/2410.01215)  
   *A hierarchical multi-granularity debugging framework (MGDebugger) that debugs code bottom-up across different error granularities to improve last-mile correctness.*
 
-
 - [2024-09-21] [Reasoning Runtime Behavior of a Program with LLM: How Far Are We?](https://arxiv.org/pdf/2403.16437)  
   *Evaluate the code reasoning capability of code LLMs.*
+
+- [2024-09-08] [A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement](https://arxiv.org/abs/2409.05001)  
+  *PairCoder uses a Navigator-Driver pair of LLM agents to explore multiple solution plans and iteratively refine code with execution feedback.*  
 
 
 
