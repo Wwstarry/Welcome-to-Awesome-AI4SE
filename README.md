@@ -305,7 +305,15 @@ Here are some great open-source resources and models related to **AI4SE** that a
 
 -  **[Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM?tab=readme-ov-file#25-reinforcement-learning-on-code)**  
   A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.  
-  🌟 I’ll go through all the papers in this list within a month and regularly update the repo with the most valuable ones.
+
+-  **[Awesome-Multimodal-LLM-for-Code](https://github.com/xjywhu/Awesome-Multimodal-LLM-for-Code)**  
+  A curated list of multimodal large language models, papers, and benchmarks for code generation under multimodal scenarios.  
+
+-  **[Awesome-Code-Benchmark](https://github.com/tongye98/Awesome-Code-Benchmark)**  
+  A comprehensive review and collection of code-domain benchmarks for LLM research, including datasets, websites, and leaderboards.  
+
+-  **[Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)**  
+  A curated survey and repository of self-evolving AI agents, covering optimization methods, open-source frameworks, and evaluation resources.
 
 
 
