@@ -8,14 +8,26 @@
 
 ## 🗓️ 2026
 
+- [2026-05-18] [Code as Agent Harness](https://arxiv.org/abs/2605.18747)  
+  *A survey framing code as the infrastructure layer of agentic systems, organizing harness design across interfaces, mechanisms, and multi-agent scaling.*  
+
+- [2026-03-31] [Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813)  
+  *Ditto compresses Code LLMs and compiles their inference programs into optimized local executables, enabling faster and lighter on-device deployment.*  
+
 - [2026-03-27] [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648)  
   *A hierarchical benchmark for visual website development, covering static UI-to-code, interactive multi-page frontend reproduction, and long-horizon full-stack development with agent-based verification.*  
+
+- [2026-02-12] [Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond](https://arxiv.org/abs/2602.11671)  
+  *Hydra treats repositories as structured code rather than natural language, combining structure-aware indexing and dependency-aware retrieval for stronger repo-level generation.*  
 
 - [2026-01-23] [SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746)  
   *A task-aware context pruning framework for coding agents that learns to selectively keep relevant code lines, cutting token cost while preserving or improving performance.*  
 
 - [2026-01-18] [Environment-Aware Code Generation: How far are We?](https://arxiv.org/abs/2601.12262)  
   *A first systematic study of environment-aware code generation (EACG) with an execution-verified, deprecation-aware benchmark (VersiBCB) and adaptation strategies across data/parameters/cache.*
+
+- [2026-01-01] [In Line with Context: Repository-Level Code Generation via Context Inlining](https://arxiv.org/abs/2601.00376)  
+  *InlineCoder reframes repository-level generation as an inlined function-level task by injecting the target function into its call graph and retrieved dependencies.*  
 
 
 ## 🗓️ 2025
@@ -33,6 +45,9 @@
 
 - [2025-09-30] [Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation (FLAME)](https://arXiv.org/abs/2509.25676)  
   *LLM-guided annotation + ensemble voting to give explainable, fine-grained fault localization for student programming tasks.*  
+
+- [2025-09-28] [Reducing Cost of LLM Agents with Trajectory Reduction](https://arxiv.org/abs/2509.23586)  
+  *AgentDiet reduces useless, redundant, and expired trajectory content during execution, lowering coding-agent token and compute cost while maintaining performance.*  
 
 - [2025-09-19] [RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198)  
   *Proposes Repository Planning Graph (RPG) as a structured blueprint to unify proposal- and implementation-level planning for scalable repository generation (ZeroRepo), and introduces the RepoCraft benchmark.*
@@ -322,5 +337,3 @@ Here are some great open-source resources and models related to **AI4SE** that a
 💡 **Working on something exciting in AI4SE?** I'd love to hear from you — feel free to get in touch: panruwei@stu.cqu.edu.cn
 
 🌱 I'm currently exploring internship opportunities where I can contribute to real-world applications of AI for Software Engineering. Let's connect!
-
-
