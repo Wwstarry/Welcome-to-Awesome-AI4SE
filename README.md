@@ -1,7 +1,7 @@
 # 🌟 Welcome-to-Awesome-AI4SE
 <a name="top"></a>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-April%207,%202026-blue)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-July%2022,%202026-blue)
 
 
 *I hope to maintain a curated AI4SE Paper Repository collecting recent high-quality research in software engineering. It aims to help researchers and practitioners stay updated with cutting-edge trends.*
@@ -16,6 +16,9 @@
 
 - [2026-03-27] [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648)  
   *A hierarchical benchmark for visual website development, covering static UI-to-code, interactive multi-page frontend reproduction, and long-horizon full-stack development with agent-based verification.*  
+
+- [2026-03-13] [SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](https://arxiv.org/abs/2603.13428)  
+  *A benchmark for evaluating AI agents on continuous software evolution through dependency-aware milestone DAGs reconstructed from real-world release histories.*  
 
 - [2026-02-12] [Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond](https://arxiv.org/abs/2602.11671)  
   *Hydra treats repositories as structured code rather than natural language, combining structure-aware indexing and dependency-aware retrieval for stronger repo-level generation.*  
@@ -317,6 +320,7 @@ Here are some great open-source resources and models related to **AI4SE** that a
 
 -  **[SWE-bench](https://github.com/princeton-nlp/SWE-bench)**  
   A benchmark for evaluating LLMs on real-world GitHub issue resolution.  
+
 
 -  **[Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM?tab=readme-ov-file#25-reinforcement-learning-on-code)**  
   A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.  
